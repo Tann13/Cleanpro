@@ -1,2 +1,2 @@
 # Cleanpro
-Shared information and knowledge for professional cleaning companies, clients, and individuals 
+A comprehensive resource for professional cleaning knowledge, techniques, and best practices.
